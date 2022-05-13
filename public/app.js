@@ -1,5 +1,3 @@
-const { response } = require("express");
-
 const question = document.querySelector(".question");
 const send = document.querySelector(".btn");
 const input = document.querySelector(".inp");
